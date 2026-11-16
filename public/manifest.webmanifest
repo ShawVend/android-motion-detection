@@ -1,0 +1,16 @@
+{
+  "name": "Santinela – Detecție mișcare",
+  "short_name": "Santinela",
+  "description": "Cameră de supraveghere pe telefon: mișcare, oameni și mașini.",
+  "start_url": "/monitor",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f0c",
+  "theme_color": "#0b0f0c",
+  "lang": "ro",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
